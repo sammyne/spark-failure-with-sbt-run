@@ -1,0 +1,1 @@
+# spark-failure-with-sbt-run
